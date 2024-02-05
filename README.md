@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Ehso9966
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m Ehso
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning backend
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
-Ehso9966/Ehso9966 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ehso/Ehso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
